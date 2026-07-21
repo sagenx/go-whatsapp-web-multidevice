@@ -3,6 +3,7 @@ bin/
 main
 main.exe
 src/gowa
+.claude
 
 # Build artifacts
 src/pkged.go
@@ -36,6 +37,9 @@ tmp/
 
 # Worktrees
 .worktrees/
+
+# Local Superpowers planning artifacts
+docs/superpowers/
 
 # whatsmeow store (legacy path)
 src/whatsapp/
